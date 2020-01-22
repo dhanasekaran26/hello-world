@@ -5,3 +5,7 @@ amend
 Hi! it's a sample github repository.
 
 it's from Gerrit Bash
+
+new user edit 
+
+Do you know who I am?
